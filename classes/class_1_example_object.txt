@@ -1,0 +1,16 @@
+cheese_burger
+
+price ($8.99)
+calories (1200)
+cook_time (:10)
+in_stock (yes)
+
+Methods
+available (checks in_stock attribute)
+true
+happy_hour (modifies price * .75 )
+(8.99 * .75)
+make_it_light (subs fries for salad and changes calorie count by -300)
+(1200 - 300)
+super_size (add a double portion of fries. Adds 300 to calorie count and 1 minute to cook time.)
+(1200 + 300) (:10 + 1)
