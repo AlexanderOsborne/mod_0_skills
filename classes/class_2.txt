@@ -1,0 +1,14 @@
+Cocktail
+
+Attributes
+
+price (float)
+size (integer)
+percent_alchohol (float)
+in_stock (boolean)
+
+Methods
+available (checks in_stock attribute)
+happy_hour (modifies price * .75 )
+virgin (sets percent_alchohol to 0)
+make_it_double (takes size vaule * 2 and price * 1.5)
