@@ -1,0 +1,18 @@
+old_fashioned
+
+Attributes
+
+price (12.00)
+size (6)
+percent_alchohol (38.09)
+in_stock (yes)
+
+Methods
+available (checks in_stock attribute)
+true
+happy_hour (modifies price * .75 )
+(12 * .75)
+virgin (sets percent_alchohol to 0)
+(percent_alchohol to 0)
+make_it_double (takes size value * 2 and price * 1.5)
+size (6 * 2) price (12 * 1.5)
