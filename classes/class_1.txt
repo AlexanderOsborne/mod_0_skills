@@ -1,0 +1,14 @@
+Entree
+
+Attributes
+
+price (float)
+calories (integer)
+cook_time (datetime)
+in_stock (boolean)
+
+Methods
+available (checks in_stock attribute)
+happy_hour (modifies price * .75 )
+make_it_light (subs fries for salad and changes calorie count by -300)
+super_size (add a double portion of fries. Adds 300 to calorie count and 1 minute to cook time.)
