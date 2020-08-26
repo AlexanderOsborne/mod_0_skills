@@ -1,0 +1,9 @@
+food = "some live to eat, I eat to live"
+is_delicious = true
+food = "time for a snack"
+num2 = 7
+num7 = 13
+num7 / num2
+songs = ["Down","with","the","sickness"]
+songs.shift()
+p food.length
